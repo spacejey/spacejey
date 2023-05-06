@@ -1,7 +1,7 @@
 
 ✨Welcome to Eunyeong's space!🪐
   <br>
-  - I'm from 🇰🇷Seoul, Republic of Korea, Currently living in 🇬🇧London, UK.
+  - I'm from 🇰🇷Seoul, Korea, Currently living in 🇬🇧London, UK.
   
 <br>
 <body>
