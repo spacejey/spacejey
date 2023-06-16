@@ -17,7 +17,6 @@
 
 MongoDB, Mongoose, PostgreSQL, Express.js, Node.js, dotenv, JSONwebToken
 
-- Storage/ Version control
 ![git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
