@@ -1,7 +1,11 @@
 # ✨Welcome to Eunyeong's space!🪐
 
-Hello! I'm Eunyeong, a developer based in 🇬🇧London, UK. I have experience in Django and Express, with a focus on backend communication, REST API design, and strong frontend skills. I specialize in UI expertise and strive to excel in user interaction technologies.
-Below is the tech stack I mainly use.
+Hello! I'm Eunyeong, a developer based in 🇬🇧London, UK. 
+
+I have experience in Django and Express, with a focus on backend communication, REST API design, and strong frontend skills. 
+I specialize in UI expertise and strive to excel in user interaction technologies.
+
+Below is the tech stack I mainly use!
 
 ## Tech Stack
 
