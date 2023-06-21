@@ -2,7 +2,8 @@
 
 Hello! I'm Eunyeong, a developer based in 🇬🇧London, UK. 
 
-I have experience in Django and Express, with a focus on backend communication, REST API design, and strong frontend skills. 
+I have experience in Django and Express, with a focus on backend communication, 
+REST API design, and strong frontend skills. 
 I specialize in UI expertise and strive to excel in user interaction technologies.
 
 Below is the tech stack I mainly use!
@@ -37,8 +38,14 @@ Below is the tech stack I mainly use!
 ## Projects
 
 - [Project 4](https://staycool.herokuapp.com/) - Full-stack Ice cream truck tracking app by utilising the Django REST Framework and PostgreSQL. The frontend is builded by React and SCSS, and to enhance user convenience and amplify visual effects, I utilized GCP to embed Google Maps.
+
+
 - [Project 3](https://woozu-sounds.herokuapp.com/) - Full-stack music festival website based on MERN. I used Express.js to handle the Mongo database and alternatives CRUD operations.
+
+
 - [Project 2](https://spacejey-harvard-api.netlify.app) - I created a gallery website within a short span of two days, achieving visually impactful results. We used the API released by the Harvard Gallery and used React as front end. As I am strong in design, I was responsible for all the design using Bootstrap and SCSS.
+
+
 - [Project 1](https://spacejey.github.io/SEI-PROJECT1/) - This is my first solo project made using JavaScript. I adjusted the speed of the moving snake with ‘setInterval’ and gave the ‘keyCode’ effect. Furthermore, I added sound effects to enhance user enjoyment. I made every effort to stretch and perform until the maximum stretch goal and I succeeded.
 <br />
 <br />
