@@ -7,6 +7,8 @@ I specialize in UI expertise and strive to excel in user interaction technologie
 
 Below is the tech stack I mainly use!
 
+
+
 ## Tech Stack
 
 ### Frontend
@@ -28,6 +30,8 @@ Below is the tech stack I mainly use!
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 ![Touch Designer](https://img.shields.io/badge/-Touch%20Designer-000000?logo=touchdesigner&logoColor=white&style=for-the-badge)
 
+
+
 ## Projects
 
 - [Project 4](https://staycool.herokuapp.com/) - Full-stack Ice cream truck tracking app by utilising the Django REST Framework and PostgreSQL. The frontend is builded by React and SCSS, and to enhance user convenience and amplify visual effects, I utilized GCP to embed Google Maps.
@@ -36,11 +40,15 @@ Below is the tech stack I mainly use!
 - [Project 1](https://spacejey.github.io/SEI-PROJECT1/) - This is my first solo project made using JavaScript. I adjusted the speed of the moving snake with ‘setInterval’ and gave the ‘keyCode’ effect. Furthermore, I added sound effects to enhance user enjoyment. I made every effort to stretch and perform until the maximum stretch goal and I succeeded.
 
 
+
+
 ## Where to find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/spacejey)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eunyeong-jeong-459081175/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)](EunyeongJeong.slack.com)
+
+
 
 
 
