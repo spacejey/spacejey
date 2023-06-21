@@ -50,7 +50,6 @@ Below is the tech stack I mainly use!
 <br />
 
 ## Where to find me
-[![이메일 아이콘](https://example.com/email-icon.png)](mailto:eunyoung.jeong00@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eunyeong-jeong-459081175/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Your%20Icon%20Image-9B59B6?style=for-the-badge)](https://eunyeong-jeong.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/spacejey)
